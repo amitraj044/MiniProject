@@ -1,0 +1,9 @@
+Select an operation to perform the calculation:  
+ 1 Addition              2 Subtraction 
+ 3 Multiplication        4 Division 
+ 
+ **After choosing operation--
+  - If operation is 1, then the result is a Addition of two numbers.
+  - If operation is 2, then the result is a Subtraction of two numbers.
+  - If operation is 3, then the result is a Multiplication of two numbers.
+  - If operation is 4, then the result is a Division of two numbers.
